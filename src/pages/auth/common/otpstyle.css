@@ -1,0 +1,19 @@
+.otpstructure {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.otpInput {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: rgb(232, 240, 254);
+    margin-right: 10px;
+}
+
+.otpsubmitbtn {
+    align-self: center;
+    margin-top: 10px;
+}

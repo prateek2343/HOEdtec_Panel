@@ -1,0 +1,11 @@
+node_modules/
+assests/
+package-lock.json
+package.json
+docker-compose.dashboard.yml
+Dockerfile
+custom-nginx.template
+tailwind.config.cjs
+vite.config.js
+.prettierrc
+postcss.config.cjs
